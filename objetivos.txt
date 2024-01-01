@@ -2,3 +2,4 @@
 
 1. Destruir a la liga de la justicia
 2. Conquistar el mundo
+3. Obtener la informacion de la liga
